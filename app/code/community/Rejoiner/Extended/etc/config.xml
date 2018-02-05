@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Rejoiner_Extended>
+            <version>1.0.0</version>
+        </Rejoiner_Extended>
+    </modules>
+    <global>
+        <blocks>
+            <rejoiner_acr>
+                <rewrite>
+                    <conversion>Rejoiner_Extended_Block_Conversion</conversion>
+                    <product>Rejoiner_Extended_Block_Product</product>
+                    <snippets>Rejoiner_Extended_Block_Snippets</snippets>
+                </rewrite>
+            </rejoiner_acr>
+        </blocks>
+    </global>
+</config>

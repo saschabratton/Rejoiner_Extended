@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Rejoiner_Extended>
+            <active>true</active>
+            <codePool>community</codePool>
+            <depends>
+                <Rejoiner_Acr />
+            </depends>
+        </Rejoiner_Extended>
+    </modules>
+</config>
